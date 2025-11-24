@@ -22,3 +22,11 @@ url = "https://www.linkedin.com/in/axel-maerten/"
 
 [social.params]
 icon = "brand-linkedin"
+
+[[social]]
+identifier = "hackthebox"
+name = "HackTheBox"
+url = "https://app.hackthebox.com/users/2252727"
+
+[social.params]
+icon = "brand-hackthebox"
